@@ -1,0 +1,1 @@
+This repository contains an implementation of [this article](https://roundwide.com/ja/detect-overlap-without-rigidbody/).
